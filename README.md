@@ -26,4 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vashanth-sri&" alt="vashanth-sri" /></p>
 
-
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/vashanth-sri/vashanth-sri/blob/output/github-contribution-grid-snake.svg)
